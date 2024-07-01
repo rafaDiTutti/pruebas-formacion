@@ -6,6 +6,8 @@ cd game
 python3 main.py
 ```
 
+# Graficas
+
 Para crear las graficas
 ``` sh
 cd app
