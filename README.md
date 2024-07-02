@@ -11,8 +11,9 @@ python3 main.py
 Para crear las graficas
 ``` sh
 git clone
-source ruta/activate
+python3 -m venv env
 cd app
+source ruta/activate
 pip3 install -r requirements.txt
 python3 main.py # Introducir el nombre del pais
 ```
