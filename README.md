@@ -17,3 +17,7 @@ source ruta/activate
 pip3 install -r requirements.txt
 python3 main.py # Introducir el nombre del pais
 ```
+
+user: raul.milla@rotonda.es
+pass : lMXG{UdRoQqJ[bH2
+url: https://platzi.com/login/
